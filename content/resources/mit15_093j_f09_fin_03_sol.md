@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 87675643-1069-c50d-de8b-1a57f278badd
 resourcetype: Document
 title: MIT15_093J_F09_fin_03_sol.pdf
 uid: e5696c5e-e30d-3611-7c5a-b5e7d3f82538
