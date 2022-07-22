@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: db2852ac-ede0-e08a-3433-5e0619171a6e
 ---
@@ -32,7 +35,7 @@ FILES
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit15_093j_f09_assn02))  
-Data ([TXT](/courses/sloan-school-of-management/15-093j-optimization-methods-fall-2009/assignments/data.txt))
+Data ([TXT]({{< baseurl >}}/resources/data))
 {{< tdclose >}}
 
 {{< trclose >}}
