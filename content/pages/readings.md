@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: The readings section contains a calendar of reading assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: faa3bb78-91b7-2614-585d-2a7ca7cd8711
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Assigned chapters are from the required textbook: Bertsimas, Dimitris, and John Tsitsiklis. _Introduction to Linear Optimization_. Belmont, MA: Athena Scientific, 1997. ISBN: 9781886529199.
@@ -235,7 +240,7 @@ Chapter 9
 Semidefinite optimization
 {{< tdclose >}}
 {{< tdopen >}}
-Freund, Robert. "Introduction to Semidefinite Programming." ([PDF]({{< baseurl >}}/resources/mit15_093j_f09_sdp)) (Used with permission.)
+Freund, Robert. "Introduction to Semidefinite Programming." ({{% resource_link 584eec8e-b3d5-67c0-95c5-21fc8981dca5 "PDF" %}}) (Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

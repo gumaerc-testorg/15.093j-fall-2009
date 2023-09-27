@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section contains exams from previous years and review material.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
 title: Exams
 uid: 87675643-1069-c50d-de8b-1a57f278badd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains exams from previous years and review material.
@@ -33,7 +38,7 @@ FILES
 2008 Midterm
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_mid_2008))
+({{% resource_link 0bd63e4f-12f6-027a-4560-8dfdccc3adda "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ FILES
 2009 Midterm solutions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_md_09_sol))
+({{% resource_link 0a192c68-334c-08aa-64e7-a6dbff9fc53d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,8 +62,8 @@ FILES
 2003 Final
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_final_2003))  
-Solutions ([PDF]({{< baseurl >}}/resources/mit15_093j_f09_fin_03_sol))
+({{% resource_link f7274b49-9115-ef83-ab4e-29388679a21a "PDF" %}})  
+Solutions ({{% resource_link e5696c5e-e30d-3611-7c5a-b5e7d3f82538 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ Solutions ([PDF]({{< baseurl >}}/resources/mit15_093j_f09_fin_03_sol))
 2006 Final
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_final_2006))
+({{% resource_link 122706e4-74a5-756d-b0a1-639bb76514e7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ Solutions ([PDF]({{< baseurl >}}/resources/mit15_093j_f09_fin_03_sol))
 2009 Final review
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_fin_review))
+({{% resource_link e39dfe25-eb8b-ec89-6a7b-7fa21819dc5d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

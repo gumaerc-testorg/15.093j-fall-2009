@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section contains a complete set of lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: e7710e71-d58f-7e19-3751-8fe133d42432
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -31,7 +36,7 @@ LECTURE NOTES
 Applications of linear optimization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec01))
+({{% resource_link 7aeab5a5-075a-e302-1a3c-395a888f6188 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +48,7 @@ Applications of linear optimization
 Geometry of linear optimization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec02))
+({{% resource_link 8d61040c-41ee-fd68-dda8-4ce05d82ad71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +60,7 @@ Geometry of linear optimization
 Simplex method I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec03))
+({{% resource_link 0a506ec7-7f46-e936-6688-254eb6026cb9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ Simplex method I
 Simplex method II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec04))
+({{% resource_link 227bd508-22cc-fd66-c653-bccf0a3e11fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +84,7 @@ Simplex method II
 Duality theory I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec05))
+({{% resource_link 9b3769b3-5cc0-93de-c3ff-1ba457d00769 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +96,7 @@ Duality theory I
 Duality theory II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec06))
+({{% resource_link e8358dc1-7422-91df-f0b9-109e79ea6765 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +108,7 @@ Duality theory II
 Sensitivity analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec07))
+({{% resource_link bd61ce1f-4f56-a501-0cd7-b1d9ab90ea8c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +120,7 @@ Sensitivity analysis
 Robust optimization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec08))
+({{% resource_link 52a0ea4e-a461-fd7c-cf15-2704e726a0b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +132,7 @@ Robust optimization
 Large scale optimization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec09))
+({{% resource_link b82165f6-f9d6-bbc3-ac78-abcc31dd136e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +150,7 @@ Courtesy of Prof. Andreas Schulz. Used with permission.
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec10))
+({{% resource_link 313d12c4-26c4-4380-ccd8-38dff3151690 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +168,7 @@ Courtesy of Prof. Andreas Schulz. Used with permission.
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec11))
+({{% resource_link 75fae33b-5de3-1903-57ff-676fca791b69 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +180,7 @@ Courtesy of Prof. Andreas Schulz. Used with permission.
 Applications of discrete optimization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec12))
+({{% resource_link 52e73926-01e7-7ca3-6d84-9f5a36f37fb2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +192,7 @@ Applications of discrete optimization
 Branch and bound and cutting planes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec13))
+({{% resource_link ff7c15a9-47a6-b064-6f12-d4f6e4af5528 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +204,7 @@ Branch and bound and cutting planes
 Lagrangean methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec14))
+({{% resource_link 65d159ff-9949-a2b9-0b52-bbbc3bd69953 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +216,7 @@ Lagrangean methods
 Heuristics and approximation algorithms
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec15))
+({{% resource_link b79bea65-fa34-c099-a9cb-a7e0baa992cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +228,7 @@ Heuristics and approximation algorithms
 Dynamic programming
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec16))
+({{% resource_link 189163b7-1d0f-3223-15c5-c5324a3bc5e6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +240,7 @@ Dynamic programming
 Applications of nonlinear optimization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec17))
+({{% resource_link 99c48cdd-6412-fe99-9c2e-6ca27cfef6b2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +252,7 @@ Applications of nonlinear optimization
 Optimality conditions and gradient methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec18))
+({{% resource_link 9628ff7e-c522-424e-ff4b-dddb7cab4ce5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +264,7 @@ Optimality conditions and gradient methods
 Line searches and Newton's method
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec19))
+({{% resource_link 4eb50386-eb01-a582-85ec-c11ab9fbdd53 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +276,7 @@ Line searches and Newton's method
 Conjugate gradient methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec20))
+({{% resource_link 8cbba8fc-c075-2e99-ae37-813368f533e6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +288,7 @@ Conjugate gradient methods
 Affine scaling algorithm
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec21))
+({{% resource_link 5715f835-e81d-95e2-8543-e4a8e896a517 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,7 +300,7 @@ Affine scaling algorithm
 Interior point methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec22))
+({{% resource_link 95cd7c84-8489-e792-c371-e1559449a2f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +312,7 @@ Interior point methods
 Semidefinite optimization I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec23))
+({{% resource_link 87a708ae-b0ed-9758-b25a-73ac1dddad04 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +324,7 @@ Semidefinite optimization I
 Semidefinite optimization II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_093j_f09_lec24))
+({{% resource_link 702c4001-2fcf-1079-c91e-6705d510a35c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
