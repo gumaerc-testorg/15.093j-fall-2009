@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to robust optimization
   problem .
 file: /courses/15-093j-optimization-methods-fall-2009/0a192c68334c08aa64e7a6dbff9fc53d_MIT15_093J_F09_md_09_sol.pdf
+file_size: 142662
 file_type: application/pdf
 learning_resource_types:
 - Exams
