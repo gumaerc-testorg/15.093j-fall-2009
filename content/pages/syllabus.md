@@ -31,12 +31,12 @@ The course takes a unified view of optimization and covers the main areas of app
 
 ## Tools
 
-{{% resource_link "d749fcb3-7778-4d5d-9320-d1460d8dd714" "AMPL Student Version Download" %}}
+[AMPL Student Version Download](https://ampl.com/products/ampl/ampl-for-students/)
 
-ILOG AMPL CPLEX User Guide ({{% resource_link "d6781476-9650-46cc-9710-5b1400e47810" "PDF" %}})   
+ILOG AMPL CPLEX User Guide ([PDF](http://www.ampl.com/BOOKLETS/amplcplex90userguide.pdf))   
 Contains useful AMPL/CPLEX directives
 
-AMPL Tutorial {{% resource_link "cb3b5da4-db3d-4c3f-895e-53b5a12f86ff" "(PDF" %}})
+AMPL Tutorial [(PDF](https://atamturk.ieor.berkeley.edu/ieor264/samples/ampl/ampldoc.pdf))
 
 ## Course Requirements and Grading
 
