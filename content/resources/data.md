@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is helpful for assignments.
-file: /ol-ocw-studio-app/courses/15-093j-optimization-methods-fall-2009/6b55d6a30aeb09a69ac8eaa39b85fcb7_data.txt
+file: /courses/15-093j-optimization-methods-fall-2009/6b55d6a30aeb09a69ac8eaa39b85fcb7_data.txt
 file_size: 2105
 file_type: text/plain
 learning_resource_types:
