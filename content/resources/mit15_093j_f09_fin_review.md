@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to linear programming
   and linear optimization.
-file: /courses/15-093j-optimization-methods-fall-2009/e39dfe25eb8bec896a7b7fa21819dc5d_MIT15_093J_F09_fin_review.pdf
+file: /ol-ocw-studio-app/courses/15-093j-optimization-methods-fall-2009/e39dfe25eb8bec896a7b7fa21819dc5d_MIT15_093J_F09_fin_review.pdf
 file_size: 103747
 file_type: application/pdf
 learning_resource_types:
